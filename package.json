@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/toro-ponz/vue-components/issues"
   },
-  "homepage": "https://github.com/toro-ponz/vue-components#readme"
+  "homepage": "https://github.com/toro-ponz/vue-components#readme",
+  "devDependencies": {
+    "vue": "^2.5.17"
+  }
 }
